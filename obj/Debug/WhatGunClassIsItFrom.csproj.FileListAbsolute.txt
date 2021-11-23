@@ -1,0 +1,7 @@
+C:\Users\Maxym\source\repos\Mod Project\bin\Debug\WhatGunClassIsItFrom.dll
+C:\Users\Maxym\source\repos\Mod Project\bin\Debug\WhatGunClassIsItFrom.pdb
+C:\Users\Maxym\source\repos\Mod Project\obj\Debug\WhatGunClassIsItFrom.csproj.CoreCompileInputs.cache
+C:\Users\Maxym\source\repos\Mod Project\obj\Debug\WhatGunClassIsItFrom.csproj.CopyComplete
+C:\Users\Maxym\source\repos\Mod Project\obj\Debug\WhatGunClassIsItFrom.dll
+C:\Users\Maxym\source\repos\Mod Project\obj\Debug\WhatGunClassIsItFrom.pdb
+C:\Users\Maxym\source\repos\Mod Project\obj\Debug\WhatGunClassIsItFrom.csprojAssemblyReference.cache
